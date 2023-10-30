@@ -4,7 +4,7 @@ Hi 👋 My name is Daiane Farias
 Junior Web Software Developer
 -----------------------------
 
-I'm a 32 years old developer and hacking since 2021. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus is back-end development, making applications that impact the life of thousands of users.
+I'm a 33 years old developer and hacking since 2021. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus is back-end development, making applications that impact the life of thousands of users.
 
 
 * 🌍  I'm based in Setubal, Portugal
