@@ -9,7 +9,7 @@ I'm a 33 years old developer and hacking since 2021. I love to code and figure i
 
 * 🌍  I'm based in Setubal, Portugal
 * ✉️  You can contact me at [daiane.farias.contractor@gmail.com](mailto:daiane.farias.contractor@gmail.com)
-* 🚀  I'm currently looking for an intership as Software Developer
+* 🚀  I'm currently working for BNP Paribas
 * 🧠  I finished the Advance level 5 course in C#, .Net Core, JavaScript and others programming languages in October/2023
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Body Pump
